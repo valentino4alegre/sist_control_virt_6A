@@ -1,0 +1,31 @@
+<html>
+     <title> Amigos </title>
+<head>
+Amigos
+<style>
+table, th, td {
+		border: 1px solid black;}
+</style>
+</head>
+<body>
+	<table style="width:100%">
+	<tr>
+	<th>Nombre</th>
+    <th>Apellido</th>
+	</tr>
+<br/>
+		<tr>
+	<td> Ulises </td>
+      <td> Caballero </td>
+    </tr>
+<br/>
+		<tr>
+        <td> Nehuen </td>
+      <td>Di Placido</td>
+        </tr>
+
+
+
+</body>
+</html>
+

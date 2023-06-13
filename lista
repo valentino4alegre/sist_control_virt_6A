@@ -1,0 +1,36 @@
+<html>
+     <title> lista de componentes </title>
+<head>
+tabla de componentes(Di Placido)
+<style>
+table, th, td {
+	border: 1px solid black;}
+</style>
+</head>
+<body>
+	<table style="width:100%">
+	<tr>
+	<th>componentes</th>
+	<th>valores</th>
+	<th>unidad</th>
+	</tr>
+<br/>
+		<tr>
+	<td> resistencia </td>
+	<td> 100 </td>
+	<td> Ohms </td>
+	</tr>
+<br/>
+		<tr>
+        <td> inductor </td>
+	<td> 0.45 </td>
+	<td> Ohms </td>
+        </tr>
+		<tr>
+        <td> capacitor </td>
+	<td> 47 </td>
+	<td> microfaradios </td>
+        </tr>
+	
+</body>
+</html>

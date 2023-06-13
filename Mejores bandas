@@ -1,0 +1,37 @@
+<html>
+     <title> Mejores Bandas </title>
+<head>
+Banda
+<style>
+table, th, td {
+	border: 1px solid black;}
+</style>
+</head>
+<body>
+	<table style="width:100%">
+	<tr>
+	<th> Nombre </th>
+	<th> Cantante </th>
+	<th> Genero </th>
+	</tr>
+<br/>
+		<tr>
+	<td> Taylor </td>
+	<td> Swift </td>
+	<td> pop </td>
+	</tr>
+<br/>
+		<tr>
+        <td> Nahuel Acosta </td>
+	<td> YSY A </td>
+	<td> Trap </td>
+        </tr>
+		<tr>
+        <td> Mauro Lombardo </td>
+	<td> Duki </td>
+	<td> trap </td>
+        </tr>
+
+
+</body>
+</html>
